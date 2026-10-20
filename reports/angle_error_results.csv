@@ -1,0 +1,9 @@
+image_id,angle_name,reference_angle_deg,predicted_angle_deg,notes,absolute_error_deg
+2. screen-shot-2017-09-15-at-17.00.06-1024x585.png,left_knee,160.75,165.77,manual 2D point annotation,5.02000000000001
+2. screen-shot-2017-09-15-at-17.00.06-1024x585.png,right_knee,150.01,154.78,manual 2D point annotation,4.77000000000001
+2. screen-shot-2017-09-15-at-17.00.06-1024x585.png,left_elbow,172.34,173.55,manual 2D point annotation,1.210000000000008
+2. screen-shot-2017-09-15-at-17.00.06-1024x585.png,right_elbow,172.84,175.32,manual 2D point annotation,2.4799999999999898
+2-0.png,left_knee,22.29,17.53,manual 2D point annotation,4.759999999999998
+2-0.png,right_knee,41.33,46.62,manual 2D point annotation,5.289999999999999
+2-0.png,left_elbow,142.66,149.43,manual 2D point annotation,6.77000000000001
+2-0.png,right_elbow,151.72,156.27,manual 2D point annotation,4.550000000000011

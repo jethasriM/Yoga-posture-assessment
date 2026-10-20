@@ -1,0 +1,20 @@
+[
+  {
+    "image": "2-0.png",
+    "pose": "Agnistambhasana",
+    "joint_angles": {
+      "left_knee": 11.53,
+      "right_knee": 79.62,
+      "left_elbow": 169.43,
+      "right_elbow": 175.27
+    },
+    "feedback": [
+      {
+        "joint": "knee",
+        "issue": "left_right_angle_difference",
+        "message": "Your left and right joint angles differ by 68.1 degrees. Check your alignment and the camera view.",
+        "measured_difference": 68.09
+      }
+    ]
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "test_accuracy": 0.8242811501597445,
+  "report": {
+    "adho mukha svanasana": {
+      "precision": 0.7777777777777778,
+      "recall": 1.0,
+      "f1-score": 0.875,
+      "support": 14.0
+    },
+    "adho mukha vriksasana": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 11.0
+    },
+    "agnistambhasana": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 6.0
+    },
+    "ananda balasana": {
+      "precision": 1.0,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.9523809523809523,
+      "support": 11.0
+    },
+    "anantasana": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1-score": 0.9333333333333333,
+      "support": 8.0
+    },
+    "anjaneyasana": {
+      "precision": 1.0,
+      "recall": 0.8461538461538461,
+      "f1-score": 0.9166666666666666,
+      "support": 13.0
+    },
+    "ardha bhekasana": {
+      "precision": 0.6666666666666666,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.4,
+      "support": 7.0
+    },
+    "ardha chandrasana": {
+      "precision": 1.0,
+      "recall": 0.9,
+      "f1-score": 0.9473684210526315,
+      "support": 10.0
+    },
+    "ardha matsyendrasana": {
+      "precision": 0.8,
+      "recall": 0.8888888888888888,
+      "f1-score": 0.8421052631578947,
+      "support": 18.0
+    },
+    "ardha pincha mayurasana": {
+      "precision": 1.0,
+      "recall": 0.7777777777777778,
+      "f1-score": 0.875,
+      "support": 9.0
+    },
+    "ardha uttanasana": {
+      "precision": 0.8461538461538461,
+      "recall": 0.9166666666666666,
+      "f1-score": 0.88,
+      "support": 12.0
+    },
+    "ashtanga namaskara": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1-score": 0.6,
+      "support": 6.0
+    },
+    "astavakrasana": {
+      "precision": 0.7777777777777778,
+      "recall": 1.0,
+      "f1-score": 0.875,
+      "support": 14.0
+    },
+    "baddha konasana": {
+      "precision": 1.0,
+      "recall": 0.6923076923076923,
+      "f1-score": 0.8181818181818182,
+      "support": 13.0
+    },
+    "bakasana": {
+      "precision": 0.9230769230769231,
+      "recall": 0.8,
+      "f1-score": 0.8571428571428571,
+      "support": 15.0
+    },
+    "balasana": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1-score": 0.8888888888888888,
+      "support": 12.0
+    },
+    "bhairavasana": {
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1-score": 0.9333333333333333,
+      "support": 8.0
+    },
+    "bharadvajasana i": {
+      "precision": 0.7272727272727273,
+      "recall": 0.7272727272727273,
+      "f1-score": 0.7272727272727273,
+      "support": 11.0
+    },
+    "bhekasana": {
+      "precision": 0.375,
+      "recall": 0.42857142857142855,
+      "f1-score": 0.4,
+      "support": 7.0
+    },
+    "bhujangasana": {
+      "precision": 0.65,
+      "recall": 0.9285714285714286,
+      "f1-score": 0.7647058823529411,
+      "support": 14.0
+    },
+    "bhujapidasana": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 12.0
+    },
+    "bitilasana": {
+      "precision": 0.6666666666666666,
+      "recall": 0.5882352941176471,
+      "f1-score": 0.625,
+      "support": 17.0
+    },
+    "camatkarasana": {
+      "precision": 1.0,
+      "recall": 0.9090909090909091,
+      "f1-score": 0.9523809523809523,
+      "support": 11.0
+    },
+    "chakravakasana": {
+      "precision": 0.6153846153846154,
+      "recall": 0.6153846153846154,
+      "f1-score": 0.6153846153846154,
+      "support": 13.0
+    },
+    "chaturanga dandasana": {
+      "precision": 0.75,
+      "recall": 0.8823529411764706,
+      "f1-score": 0.8108108108108109,
+      "support": 17.0
+    },
+    "dandasana": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1-score": 0.9230769230769231,
+      "support": 12.0
+    },
+    "dhanurasana": {
+      "precision": 0.875,
+      "recall": 0.875,
+      "f1-score": 0.875,
+      "support": 8.0
+    },
+    "durvasasana": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 4.0
+    },
+    "accuracy": 0.8242811501597445,
+    "macro avg": {
+      "precision": 0.8401638044495188,
+      "recall": 0.80849093133757,
+      "f1-score": 0.8123277250914358,
+      "support": 313.0
+    },
+    "weighted avg": {
+      "precision": 0.8393136061666414,
+      "recall": 0.8242811501597445,
+      "f1-score": 0.8217458037037855,
+      "support": 313.0
+    }
+  }
+}

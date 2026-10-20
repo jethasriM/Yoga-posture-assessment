@@ -1,0 +1,19 @@
+[
+  {
+    "image": "2. screen-shot-2017-09-15-at-17.00.06-1024x585.png",
+    "pose": "Adho Mukha Svanasana",
+    "joint_angles": {
+      "left_knee": 178.77,
+      "right_knee": 167.78,
+      "left_elbow": 173.55,
+      "right_elbow": 175.32
+    },
+    "feedback": [
+      {
+        "joint": "general",
+        "issue": "no_rule_triggered",
+        "message": "No configured alignment warning was triggered. This does not guarantee that the pose is correct."
+      }
+    ]
+  }
+]
